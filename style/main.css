@@ -1,0 +1,21 @@
+.nav-logo {
+  margin-right: 24px;
+  margin-left: -15px;
+  width: 108px;
+}
+
+html, body {
+  height: 100%;
+}
+
+nav {
+  background-color: black !important;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+  color: lightgray !important;
+}
+
+.uk-container {
+  height: calc(100% - 80px);
+}
